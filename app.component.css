@@ -1,0 +1,20 @@
+.primary{
+    color: aqua;
+    background-color: blueviolet;
+} 
+.button {
+    width: 150px;
+    height: 40px;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+.sized-img {
+    width: 100%;
+    height:100%;
+  }
